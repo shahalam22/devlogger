@@ -1384,3 +1384,119 @@
 23:43:00 - Closed: f:\spl-2\server\routes\postRoutes.js
 23:43:02 - Closed: f:\spl-2\server\controllers\postController.js
 23:43:03 - Closed: f:\spl-2\server\services\postService.js
+00:38:28 - Opened: f:\spl-2\server\server.js.git
+00:38:35 - Opened: f:\spl-2\server\routes\eventRoutes.js
+00:38:35 - Closed: f:\spl-2\server\server.js.git
+00:38:36 - Opened: f:\spl-2\server\routes\eventRoutes.js.git
+00:38:42 - Opened: f:\spl-2\server\controllers\eventContoller.js
+00:38:42 - Closed: f:\spl-2\server\routes\eventRoutes.js.git
+00:38:43 - Opened: f:\spl-2\server\controllers\eventContoller.js.git
+00:38:56 - Closed: f:\spl-2\server\controllers\eventContoller.js.git
+00:38:59 - Opened: f:\spl-2\server\controllers\eventContoller.js.git
+00:39:09 - Opened: f:\spl-2\server\services\eventService.js
+00:39:09 - Closed: f:\spl-2\server\controllers\eventContoller.js.git
+00:39:10 - Opened: f:\spl-2\server\services\eventService.js.git
+00:39:18 - Opened: f:\spl-2\server\services\userService.js
+00:39:18 - Closed: f:\spl-2\server\services\eventService.js.git
+00:39:19 - Opened: f:\spl-2\server\services\userService.js.git
+00:39:30 - Closed: f:\spl-2\server\services\userService.js
+00:39:30 - Closed: f:\spl-2\server\services\userService.js.git
+00:39:30 - Opened: f:\spl-2\server\services\eventService.js.git
+00:39:32 - Opened: f:\spl-2\server\services\postService.js
+00:39:32 - Closed: f:\spl-2\server\services\eventService.js.git
+00:39:33 - Opened: f:\spl-2\server\services\postService.js.git
+00:39:39 - Closed: f:\spl-2\server\services\postService.js.git
+00:39:40 - Opened: f:\spl-2\server\services\eventService.js.git
+00:39:42 - Closed: f:\spl-2\server\services\eventService.js.git
+00:39:43 - Opened: f:\spl-2\server\services\postService.js.git
+00:39:44 - Closed: f:\spl-2\server\services\postService.js.git
+00:39:44 - Opened: f:\spl-2\server\services\eventService.js.git
+00:39:49 - Closed: f:\spl-2\server\services\eventService.js.git
+00:39:50 - Opened: f:\spl-2\server\services\postService.js.git
+00:39:51 - Closed: f:\spl-2\server\services\postService.js.git
+00:39:52 - Opened: f:\spl-2\server\services\eventService.js.git
+00:39:53 - Closed: f:\spl-2\server\services\postService.js
+00:39:55 - Closed: f:\spl-2\server\services\eventService.js.git
+00:40:16 - Opened: f:\spl-2\prisma\schema.prisma
+00:40:17 - Opened: f:\spl-2\prisma\schema.prisma.git
+00:40:45 - Closed: f:\spl-2\prisma\schema.prisma.git
+00:40:45 - Opened: f:\spl-2\server\controllers\eventContoller.js.git
+00:40:46 - Closed: f:\spl-2\prisma\schema.prisma
+00:40:48 - Closed: f:\spl-2\server\controllers\eventContoller.js.git
+00:40:48 - Opened: f:\spl-2\server\services\eventService.js.git
+00:40:58 - Closed: f:\spl-2\server\services\eventService.js.git
+00:43:22 - Opened: f:\spl-2\server\controllers\eventContoller.js.git
+00:43:29 - Closed: f:\spl-2\server\controllers\eventContoller.js.git
+00:43:29 - Opened: f:\spl-2\server\services\eventService.js.git
+00:43:35 - Closed: f:\spl-2\server\services\eventService.js.git
+00:43:36 - Opened: f:\spl-2\server\controllers\eventContoller.js.git
+00:43:45 - Closed: f:\spl-2\server\controllers\eventContoller.js.git
+00:43:45 - Opened: f:\spl-2\server\services\eventService.js.git
+00:43:51 - Modified: Workspace event
+00:43:51 - Modified: Workspace event
+00:43:51 - Modified: Workspace event
+00:43:51 - Modified: Workspace event
+00:43:52 - Modified: Workspace event
+00:43:52 - Modified: Workspace event
+00:43:52 - Modified: Workspace event
+00:43:53 - Modified: Workspace event
+00:43:53 - Modified: Workspace event
+00:43:55 - Modified: Workspace event
+00:43:56 - Modified: Workspace event
+00:43:57 - Modified: Workspace event
+00:43:58 - Modified: Workspace event
+00:43:58 - Modified: Workspace event
+00:43:59 - Modified: Workspace event
+00:44:01 - Modified: Workspace event
+00:44:01 - Modified: Workspace event
+00:44:01 - Saved: f:\spl-2\server\services\eventService.js
+00:44:04 - Closed: f:\spl-2\server\services\eventService.js.git
+00:45:34 - Opened: f:\spl-2\server\controllers\eventContoller.js.git
+00:45:42 - Closed: f:\spl-2\server\controllers\eventContoller.js.git
+00:45:42 - Opened: f:\spl-2\server\services\eventService.js.git
+00:45:45 - Modified: Workspace event
+00:45:45 - Modified: Workspace event
+00:45:46 - Modified: Workspace event
+00:45:46 - Modified: Workspace event
+00:45:46 - Modified: Workspace event
+00:45:46 - Modified: Workspace event
+00:45:46 - Modified: Workspace event
+00:45:46 - Modified: Workspace event
+00:45:47 - Modified: Workspace event
+00:45:47 - Modified: Workspace event
+00:45:48 - Modified: Workspace event
+00:45:48 - Modified: Workspace event
+00:45:49 - Modified: Workspace event
+00:45:50 - Modified: Workspace event
+00:45:50 - Modified: Workspace event
+00:45:50 - Saved: f:\spl-2\server\services\eventService.js
+00:45:53 - Closed: f:\spl-2\server\services\eventService.js.git
+00:46:51 - Opened: f:\spl-2\server\routes\eventRoutes.js.git
+00:46:52 - Closed: f:\spl-2\server\routes\eventRoutes.js.git
+00:46:52 - Opened: f:\spl-2\server\controllers\eventContoller.js.git
+00:47:00 - Closed: f:\spl-2\server\controllers\eventContoller.js.git
+00:47:00 - Opened: f:\spl-2\server\services\eventService.js.git
+00:47:03 - Modified: Workspace event
+00:47:03 - Modified: Workspace event
+00:47:04 - Modified: Workspace event
+00:47:05 - Modified: Workspace event
+00:47:05 - Modified: Workspace event
+00:47:05 - Saved: f:\spl-2\server\services\eventService.js
+00:47:07 - Closed: f:\spl-2\server\services\eventService.js.git
+00:47:36 - Opened: f:\spl-2\prisma\schema.prisma
+00:47:37 - Opened: f:\spl-2\prisma\schema.prisma.git
+00:48:06 - Closed: f:\spl-2\prisma\schema.prisma.git
+00:48:18 - Opened: f:\spl-2\prisma\schema.prisma.git
+00:48:41 - Closed: f:\spl-2\prisma\schema.prisma.git
+00:50:57 - Opened: f:\spl-2\prisma\schema.prisma.git
+00:51:49 - Modified: Workspace event
+00:51:49 - Modified: Workspace event
+00:51:51 - Modified: Workspace event
+00:51:52 - Modified: Workspace event
+00:54:01 - Modified: Workspace event
+00:54:01 - Modified: Workspace event
+00:54:01 - Saved: f:\spl-2\prisma\schema.prisma
+00:55:15 - Closed: f:\spl-2\prisma\schema.prisma.git
+00:56:24 - Closed: f:\spl-2\server\routes\eventRoutes.js
+00:56:25 - Closed: f:\spl-2\server\controllers\eventContoller.js
+00:56:26 - Closed: f:\spl-2\server\services\eventService.js
