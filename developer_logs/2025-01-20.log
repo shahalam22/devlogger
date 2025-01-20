@@ -715,3 +715,469 @@
 13:04:10 - Opened: f:\spl-2\server\controllers\postController.js
 13:04:10 - Closed: f:\spl-2\server\routes\postRoutes.js.git
 13:04:11 - Opened: f:\spl-2\server\controllers\postController.js.git
+14:12:17 - Opened: f:\spl-2\server\controllers\postController.js.git
+14:12:18 - Modified: Workspace event
+14:12:18 - Modified: Workspace event
+14:12:38 - Closed: f:\spl-2\server\controllers\postController.js.git
+14:40:02 - Closed: f:\spl-2\server\controllers\postController.js.git
+14:45:04 - Closed: f:\spl-2\package.json
+14:45:08 - Closed: f:\spl-2\server\middlewares\auth.js
+14:45:08 - Closed: f:\spl-2\server\server.js
+14:45:10 - Closed: f:\spl-2\server\routes\postRoutes.js
+14:45:11 - Closed: f:\spl-2\server\controllers\postController.js
+14:45:16 - Opened: f:\spl-2\server\server.js
+14:45:17 - Opened: f:\spl-2\server\server.js.git
+14:45:27 - Closed: f:\spl-2\server\server.js.git
+14:45:36 - Opened: f:\spl-2\server\server.js.git
+14:45:38 - Opened: f:\spl-2\server\routes\userRoutes.js
+14:45:38 - Closed: f:\spl-2\server\routes\userRoutes.js
+14:46:06 - Closed: f:\spl-2\server\server.js
+14:46:06 - Opened: f:\spl-2\server\routes\userRoutes.js
+14:46:06 - Closed: f:\spl-2\server\server.js.git
+14:46:07 - Opened: f:\spl-2\server\routes\userRoutes.js.git
+14:46:15 - Closed: f:\spl-2\server\routes\userRoutes.js.git
+14:46:25 - Opened: f:\spl-2\server\routes\userRoutes.js.git
+14:46:27 - Closed: f:\spl-2\server\routes\userRoutes.js
+14:46:27 - Closed: f:\spl-2\server\routes\userRoutes.js.git
+14:46:30 - Opened: f:\spl-2\server\routes\userRoutes.js
+14:46:31 - Opened: f:\spl-2\server\routes\userRoutes.js.git
+14:46:36 - Closed: f:\spl-2\server\routes\userRoutes.js
+14:46:36 - Opened: f:\spl-2\server\controllers\userController.js
+14:46:36 - Closed: f:\spl-2\server\routes\userRoutes.js.git
+14:46:36 - Opened: f:\spl-2\server\controllers\userController.js.git
+14:46:44 - Closed: f:\spl-2\server\controllers\userController.js
+14:46:44 - Opened: f:\spl-2\server\routes\userRoutes.js
+14:46:44 - Closed: f:\spl-2\server\controllers\userController.js.git
+14:46:44 - Opened: f:\spl-2\server\routes\userRoutes.js.git
+14:46:48 - Closed: f:\spl-2\server\routes\userRoutes.js
+14:46:48 - Opened: f:\spl-2\server\controllers\userController.js
+14:46:48 - Closed: f:\spl-2\server\routes\userRoutes.js.git
+14:46:48 - Opened: f:\spl-2\server\controllers\userController.js.git
+14:47:02 - Closed: f:\spl-2\server\controllers\userController.js
+14:47:02 - Opened: f:\spl-2\server\services\userService.js
+14:47:02 - Closed: f:\spl-2\server\controllers\userController.js.git
+14:47:03 - Opened: f:\spl-2\server\services\userService.js.git
+14:48:32 - Closed: f:\spl-2\server\services\userService.js.git
+14:49:19 - Opened: f:\spl-2\server\lib\prisma.js.git
+14:49:33 - Closed: f:\spl-2\server\services\userService.js
+14:49:33 - Opened: f:\spl-2\prisma\schema.prisma
+14:49:33 - Closed: f:\spl-2\server\lib\prisma.js.git
+14:49:34 - Opened: f:\spl-2\prisma\schema.prisma.git
+14:50:56 - Closed: f:\spl-2\prisma\schema.prisma.git
+14:52:25 - Opened: f:\spl-2\server\services\userService.js
+14:52:26 - Opened: f:\spl-2\server\services\userService.js.git
+14:52:42 - Opened: f:\spl-2\server\server.js
+14:52:42 - Closed: f:\spl-2\server\services\userService.js.git
+14:52:43 - Opened: f:\spl-2\server\server.js.git
+14:52:47 - Opened: f:\spl-2\server\routes\userRoutes.js
+14:52:47 - Closed: f:\spl-2\server\server.js.git
+14:52:48 - Opened: f:\spl-2\server\routes\userRoutes.js.git
+14:53:01 - Opened: f:\spl-2\server\middlewares\auth.js
+14:53:01 - Closed: f:\spl-2\server\routes\userRoutes.js.git
+14:53:01 - Opened: f:\spl-2\server\middlewares\auth.js.git
+14:53:21 - Opened: f:\spl-2\server\middlewares\error.js
+14:53:21 - Closed: f:\spl-2\server\middlewares\auth.js.git
+14:53:22 - Opened: f:\spl-2\server\middlewares\error.js.git
+14:53:34 - Closed: f:\spl-2\server\middlewares\error.js
+14:53:34 - Opened: f:\spl-2\server\controllers\userController.js
+14:53:34 - Closed: f:\spl-2\server\middlewares\error.js.git
+14:53:34 - Opened: f:\spl-2\server\controllers\userController.js.git
+14:53:47 - Closed: f:\spl-2\server\controllers\userController.js.git
+14:53:48 - Opened: f:\spl-2\server\services\userService.js.git
+14:54:04 - Modified: Workspace event
+14:54:04 - Modified: Workspace event
+14:54:05 - Modified: Workspace event
+14:54:09 - Modified: Workspace event
+14:54:09 - Modified: Workspace event
+14:54:09 - Modified: Workspace event
+14:54:13 - Modified: Workspace event
+14:54:14 - Modified: Workspace event
+14:54:14 - Modified: Workspace event
+14:54:15 - Modified: Workspace event
+14:54:15 - Modified: Workspace event
+14:54:15 - Modified: Workspace event
+14:54:15 - Modified: Workspace event
+14:54:16 - Modified: Workspace event
+14:54:17 - Modified: Workspace event
+14:54:17 - Modified: Workspace event
+14:54:17 - Modified: Workspace event
+14:54:17 - Modified: Workspace event
+14:54:18 - Modified: Workspace event
+14:54:18 - Modified: Workspace event
+14:54:20 - Modified: Workspace event
+14:54:20 - Modified: Workspace event
+14:54:20 - Saved: f:\spl-2\server\services\userService.js
+14:55:58 - Modified: Workspace event
+14:55:58 - Modified: Workspace event
+14:55:58 - Modified: Workspace event
+14:55:58 - Modified: Workspace event
+14:55:59 - Modified: Workspace event
+14:55:59 - Modified: Workspace event
+14:55:59 - Modified: Workspace event
+14:56:00 - Modified: Workspace event
+14:56:00 - Modified: Workspace event
+14:56:00 - Modified: Workspace event
+14:56:04 - Modified: Workspace event
+14:56:04 - Modified: Workspace event
+14:56:04 - Saved: f:\spl-2\server\services\userService.js
+14:56:07 - Closed: f:\spl-2\server\services\userService.js.git
+14:56:07 - Opened: f:\spl-2\server\server.js.git
+14:56:09 - Closed: f:\spl-2\server\server.js.git
+14:56:09 - Opened: f:\spl-2\server\routes\userRoutes.js.git
+14:56:12 - Closed: f:\spl-2\server\middlewares\auth.js
+14:56:14 - Closed: f:\spl-2\server\routes\userRoutes.js.git
+14:56:15 - Opened: f:\spl-2\server\controllers\userController.js.git
+14:56:27 - Closed: f:\spl-2\server\controllers\userController.js.git
+14:56:27 - Opened: f:\spl-2\server\services\userService.js.git
+14:56:33 - Closed: f:\spl-2\server\services\userService.js.git
+14:56:34 - Opened: f:\spl-2\server\server.js.git
+14:56:39 - Closed: f:\spl-2\server\server.js.git
+14:56:39 - Opened: f:\spl-2\server\routes\userRoutes.js.git
+14:56:43 - Closed: f:\spl-2\server\routes\userRoutes.js.git
+14:56:44 - Opened: f:\spl-2\server\controllers\userController.js.git
+14:57:02 - Closed: f:\spl-2\server\controllers\userController.js.git
+14:57:03 - Opened: f:\spl-2\server\services\userService.js.git
+14:57:06 - Modified: Workspace event
+14:57:06 - Modified: Workspace event
+14:57:08 - Modified: Workspace event
+14:57:08 - Modified: Workspace event
+14:57:08 - Modified: Workspace event
+14:57:09 - Modified: Workspace event
+14:57:11 - Modified: Workspace event
+14:57:13 - Modified: Workspace event
+14:57:13 - Modified: Workspace event
+14:57:15 - Modified: Workspace event
+14:57:15 - Modified: Workspace event
+14:57:15 - Saved: f:\spl-2\server\services\userService.js
+14:57:21 - Closed: f:\spl-2\server\services\userService.js.git
+14:57:57 - Opened: f:\spl-2\server\controllers\userController.js.git
+14:58:01 - Closed: f:\spl-2\server\controllers\userController.js.git
+14:58:02 - Opened: f:\spl-2\server\services\userService.js.git
+14:58:14 - Closed: f:\spl-2\server\services\userService.js.git
+14:58:14 - Opened: f:\spl-2\server\lib\prisma.js.git
+14:58:50 - Closed: f:\spl-2\server\server.js
+14:58:52 - Closed: f:\spl-2\server\routes\userRoutes.js
+14:58:53 - Closed: f:\spl-2\server\lib\prisma.js.git
+14:58:53 - Opened: f:\spl-2\server\controllers\userController.js.git
+14:58:56 - Closed: f:\spl-2\server\controllers\userController.js
+14:58:56 - Opened: f:\spl-2\server\routes\userRoutes.js
+14:58:56 - Closed: f:\spl-2\server\controllers\userController.js.git
+14:58:57 - Opened: f:\spl-2\server\routes\userRoutes.js.git
+14:58:58 - Closed: f:\spl-2\server\routes\userRoutes.js.git
+14:58:59 - Opened: f:\spl-2\server\services\userService.js.git
+14:59:04 - Closed: f:\spl-2\server\routes\userRoutes.js
+14:59:54 - Opened: f:\spl-2\prisma\seed.js
+14:59:54 - Closed: f:\spl-2\server\services\userService.js.git
+14:59:55 - Opened: f:\spl-2\prisma\seed.js.git
+14:59:55 - Closed: f:\spl-2\prisma\seed.js
+14:59:55 - Opened: f:\spl-2\prisma\testSeed.js
+14:59:55 - Closed: f:\spl-2\prisma\seed.js.git
+14:59:56 - Opened: f:\spl-2\prisma\testSeed.js.git
+15:01:08 - Closed: f:\spl-2\prisma\testSeed.js.git
+15:01:08 - Opened: f:\spl-2\prisma\schema.prisma.git
+15:03:46 - Closed: f:\spl-2\prisma\schema.prisma.git
+15:03:46 - Opened: f:\spl-2\server\services\userService.js.git
+15:03:56 - Closed: f:\spl-2\prisma\testSeed.js
+15:03:56 - Opened: f:\spl-2\server\middlewares\auth.js
+15:03:56 - Closed: f:\spl-2\server\services\userService.js.git
+15:03:56 - Opened: f:\spl-2\server\middlewares\auth.js.git
+15:04:06 - Opened: f:\spl-2\server\controllers\userController.js
+15:04:06 - Closed: f:\spl-2\server\middlewares\auth.js.git
+15:04:06 - Opened: f:\spl-2\server\controllers\userController.js.git
+15:05:39 - Closed: f:\spl-2\server\controllers\userController.js.git
+15:05:41 - Opened: f:\spl-2\server\services\userService.js.git
+15:05:42 - Closed: f:\spl-2\server\services\userService.js.git
+15:05:42 - Opened: f:\spl-2\server\middlewares\auth.js.git
+15:05:43 - Closed: f:\spl-2\server\middlewares\auth.js.git
+15:05:43 - Opened: f:\spl-2\server\controllers\userController.js.git
+15:05:44 - Closed: f:\spl-2\server\controllers\userController.js.git
+15:05:45 - Opened: f:\spl-2\server\middlewares\auth.js.git
+15:05:45 - Closed: f:\spl-2\server\middlewares\auth.js.git
+15:05:46 - Opened: f:\spl-2\server\services\userService.js.git
+15:05:46 - Closed: f:\spl-2\server\services\userService.js.git
+19:06:23 - Opened: f:\spl-2\server\routes\userRoutes.js
+19:06:23 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:06:23 - Opened: f:\spl-2\server\routes\userRoutes.js.git
+19:06:27 - Modified: Workspace event
+19:06:27 - Modified: Workspace event
+19:06:28 - Modified: Workspace event
+19:06:28 - Modified: Workspace event
+19:06:29 - Modified: Workspace event
+19:06:31 - Modified: Workspace event
+19:06:31 - Modified: Workspace event
+19:06:31 - Modified: Workspace event
+19:06:32 - Modified: Workspace event
+19:06:33 - Modified: Workspace event
+19:06:34 - Modified: Workspace event
+19:06:34 - Modified: Workspace event
+19:06:34 - Modified: Workspace event
+19:06:41 - Modified: Workspace event
+19:06:41 - Modified: Workspace event
+19:06:41 - Saved: f:\spl-2\server\routes\userRoutes.js
+19:06:47 - Closed: f:\spl-2\prisma\schema.prisma
+19:06:48 - Closed: f:\spl-2\server\lib\prisma.js
+19:07:08 - Closed: f:\spl-2\server\routes\userRoutes.js.git
+19:07:36 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:07:43 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:14:41 - Opened: f:\spl-2\server\routes\userRoutes.js.git
+19:14:43 - Closed: f:\spl-2\server\routes\userRoutes.js.git
+19:14:43 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:15:49 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:15:49 - Opened: f:\spl-2\server\routes\userRoutes.js.git
+19:15:50 - Closed: f:\spl-2\server\routes\userRoutes.js.git
+19:16:24 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:16:26 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:16:27 - Opened: f:\spl-2\server\services\userService.js.git
+19:16:28 - Closed: f:\spl-2\server\services\userService.js.git
+19:16:28 - Opened: f:\spl-2\server\routes\userRoutes.js.git
+19:16:34 - Closed: f:\spl-2\server\routes\userRoutes.js.git
+19:16:38 - Opened: f:\spl-2\server\routes\userRoutes.js.git
+19:16:42 - Closed: f:\spl-2\server\routes\userRoutes.js.git
+19:16:42 - Opened: f:\spl-2\server\services\userService.js.git
+19:16:46 - Opened: f:\spl-2\server\server.js
+19:16:46 - Closed: f:\spl-2\server\services\userService.js.git
+19:16:47 - Opened: f:\spl-2\server\server.js.git
+19:16:50 - Closed: f:\spl-2\server\server.js.git
+19:16:51 - Opened: f:\spl-2\server\routes\userRoutes.js.git
+19:16:54 - Closed: f:\spl-2\server\routes\userRoutes.js.git
+19:16:54 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:17:03 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:25:57 - Opened: f:\spl-2\server\server.js.git
+19:26:31 - Closed: f:\spl-2\server\server.js.git
+19:26:31 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:26:54 - Opened: f:\spl-2\.env
+19:26:54 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:26:54 - Opened: f:\spl-2\.env.git
+19:26:57 - Modified: Workspace event
+19:26:57 - Modified: Workspace event
+19:26:58 - Modified: Workspace event
+19:27:00 - Modified: Workspace event
+19:27:00 - Modified: Workspace event
+19:27:01 - Modified: Workspace event
+19:27:01 - Modified: Workspace event
+19:27:01 - Modified: Workspace event
+19:27:02 - Modified: Workspace event
+19:27:03 - Modified: Workspace event
+19:27:03 - Modified: Workspace event
+19:27:04 - Modified: Workspace event
+19:27:04 - Modified: Workspace event
+19:27:04 - Modified: Workspace event
+19:27:05 - Modified: Workspace event
+19:27:05 - Modified: Workspace event
+19:27:05 - Modified: Workspace event
+19:27:06 - Modified: Workspace event
+19:27:06 - Modified: Workspace event
+19:27:06 - Modified: Workspace event
+19:27:07 - Modified: Workspace event
+19:27:09 - Modified: Workspace event
+19:27:12 - Modified: Workspace event
+19:27:12 - Modified: Workspace event
+19:27:12 - Saved: f:\spl-2\.env
+19:27:15 - Closed: f:\spl-2\.env.git
+19:27:15 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:27:49 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:28:11 - Opened: f:\spl-2\.env.git
+19:28:19 - Modified: Workspace event
+19:28:19 - Modified: Workspace event
+19:28:21 - Modified: Workspace event
+19:28:21 - Modified: Workspace event
+19:28:22 - Modified: Workspace event
+19:28:23 - Modified: Workspace event
+19:28:24 - Modified: Workspace event
+19:28:24 - Modified: Workspace event
+19:28:24 - Modified: Workspace event
+19:28:25 - Modified: Workspace event
+19:28:25 - Modified: Workspace event
+19:28:25 - Modified: Workspace event
+19:28:25 - Modified: Workspace event
+19:28:25 - Modified: Workspace event
+19:28:25 - Modified: Workspace event
+19:28:26 - Modified: Workspace event
+19:28:26 - Modified: Workspace event
+19:28:27 - Modified: Workspace event
+19:28:27 - Modified: Workspace event
+19:28:29 - Modified: Workspace event
+19:28:29 - Modified: Workspace event
+19:28:30 - Modified: Workspace event
+19:28:34 - Modified: Workspace event
+19:28:34 - Modified: Workspace event
+19:28:34 - Saved: f:\spl-2\.env
+19:28:36 - Closed: f:\spl-2\.env.git
+19:31:56 - Opened: f:\spl-2\.env.git
+19:32:05 - Closed: f:\spl-2\.env.git
+19:39:07 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:39:14 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:43:46 - Opened: f:\spl-2\server\routes\userRoutes.js.git
+19:43:47 - Closed: f:\spl-2\server\routes\userRoutes.js.git
+19:43:48 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:44:24 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:44:24 - Opened: f:\spl-2\server\server.js.git
+19:44:26 - Closed: f:\spl-2\server\server.js.git
+19:44:26 - Opened: f:\spl-2\server\services\userService.js.git
+19:44:42 - Closed: f:\spl-2\server\services\userService.js.git
+19:44:42 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:45:15 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:45:16 - Opened: f:\spl-2\server\services\userService.js.git
+19:45:22 - Modified: Workspace event
+19:45:22 - Modified: Workspace event
+19:45:24 - Modified: Workspace event
+19:45:24 - Modified: Workspace event
+19:45:25 - Modified: Workspace event
+19:45:30 - Modified: Workspace event
+19:45:30 - Modified: Workspace event
+19:45:30 - Saved: f:\spl-2\server\services\userService.js
+19:45:33 - Closed: f:\spl-2\server\services\userService.js.git
+19:45:51 - Opened: f:\spl-2\server\services\userService.js.git
+19:45:56 - Closed: f:\spl-2\server\services\userService.js.git
+19:45:56 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:46:08 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:46:09 - Opened: f:\spl-2\server\services\userService.js.git
+19:46:11 - Modified: Workspace event
+19:46:11 - Modified: Workspace event
+19:46:23 - Modified: Workspace event
+19:46:23 - Modified: Workspace event
+19:46:24 - Modified: Workspace event
+19:46:24 - Modified: Workspace event
+19:46:24 - Modified: Workspace event
+19:46:24 - Modified: Workspace event
+19:46:24 - Modified: Workspace event
+19:46:27 - Modified: Workspace event
+19:46:27 - Modified: Workspace event
+19:46:27 - Saved: f:\spl-2\server\services\userService.js
+19:46:30 - Closed: f:\spl-2\server\services\userService.js.git
+19:46:42 - Opened: f:\spl-2\server\services\userService.js.git
+19:46:59 - Modified: Workspace event
+19:46:59 - Modified: Workspace event
+19:47:03 - Modified: Workspace event
+19:47:05 - Modified: Workspace event
+19:47:05 - Modified: Workspace event
+19:47:05 - Saved: f:\spl-2\server\services\userService.js
+19:47:05 - Modified: Workspace event
+19:47:05 - Saved: f:\spl-2\server\services\userService.js
+19:47:18 - Modified: Workspace event
+19:47:18 - Modified: Workspace event
+19:47:20 - Modified: Workspace event
+19:47:20 - Modified: Workspace event
+19:47:20 - Modified: Workspace event
+19:47:21 - Modified: Workspace event
+19:47:22 - Modified: Workspace event
+19:47:23 - Modified: Workspace event
+19:47:23 - Modified: Workspace event
+19:47:23 - Modified: Workspace event
+19:47:24 - Modified: Workspace event
+19:47:24 - Modified: Workspace event
+19:47:25 - Modified: Workspace event
+19:47:25 - Modified: Workspace event
+19:47:25 - Saved: f:\spl-2\server\services\userService.js
+19:47:27 - Closed: f:\spl-2\server\services\userService.js.git
+19:47:37 - Opened: f:\spl-2\server\services\userService.js.git
+19:47:41 - Modified: Workspace event
+19:47:41 - Modified: Workspace event
+19:47:41 - Modified: Workspace event
+19:47:41 - Modified: Workspace event
+19:47:41 - Modified: Workspace event
+19:47:42 - Modified: Workspace event
+19:47:43 - Modified: Workspace event
+19:47:43 - Modified: Workspace event
+19:47:43 - Saved: f:\spl-2\server\services\userService.js
+19:47:45 - Closed: f:\spl-2\server\services\userService.js.git
+19:47:51 - Opened: f:\spl-2\server\services\userService.js.git
+19:47:53 - Modified: Workspace event
+19:47:53 - Modified: Workspace event
+19:47:55 - Modified: Workspace event
+19:47:55 - Modified: Workspace event
+19:47:55 - Saved: f:\spl-2\server\services\userService.js
+19:47:57 - Closed: f:\spl-2\server\services\userService.js.git
+19:47:58 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:48:10 - Modified: Workspace event
+19:48:10 - Modified: Workspace event
+19:48:11 - Modified: Workspace event
+19:48:11 - Modified: Workspace event
+19:48:11 - Modified: Workspace event
+19:48:12 - Modified: Workspace event
+19:48:14 - Modified: Workspace event
+19:48:15 - Modified: Workspace event
+19:48:15 - Modified: Workspace event
+19:48:15 - Saved: f:\spl-2\server\controllers\userController.js
+19:48:17 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:48:26 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:48:33 - Modified: Workspace event
+19:48:33 - Modified: Workspace event
+19:48:34 - Modified: Workspace event
+19:48:36 - Modified: Workspace event
+19:48:36 - Modified: Workspace event
+19:48:36 - Modified: Workspace event
+19:48:37 - Modified: Workspace event
+19:48:37 - Modified: Workspace event
+19:48:37 - Modified: Workspace event
+19:48:38 - Modified: Workspace event
+19:48:41 - Modified: Workspace event
+19:48:41 - Modified: Workspace event
+19:48:41 - Saved: f:\spl-2\server\controllers\userController.js
+19:48:43 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:49:11 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:49:18 - Modified: Workspace event
+19:49:18 - Modified: Workspace event
+19:49:18 - Modified: Workspace event
+19:49:18 - Modified: Workspace event
+19:49:18 - Modified: Workspace event
+19:49:18 - Modified: Workspace event
+19:49:20 - Modified: Workspace event
+19:49:20 - Modified: Workspace event
+19:49:20 - Saved: f:\spl-2\server\controllers\userController.js
+19:49:22 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:49:31 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:49:42 - Modified: Workspace event
+19:49:42 - Modified: Workspace event
+19:49:42 - Modified: Workspace event
+19:49:42 - Modified: Workspace event
+19:49:42 - Modified: Workspace event
+19:49:43 - Modified: Workspace event
+19:49:45 - Modified: Workspace event
+19:49:45 - Modified: Workspace event
+19:49:45 - Saved: f:\spl-2\server\controllers\userController.js
+19:49:48 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:49:59 - Opened: f:\spl-2\server\routes\userRoutes.js.git
+19:50:00 - Closed: f:\spl-2\server\routes\userRoutes.js.git
+19:50:01 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:50:02 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:50:02 - Opened: f:\spl-2\server\services\userService.js.git
+19:50:06 - Modified: Workspace event
+19:50:06 - Modified: Workspace event
+19:50:08 - Modified: Workspace event
+19:50:08 - Modified: Workspace event
+19:50:08 - Saved: f:\spl-2\server\services\userService.js
+19:50:40 - Closed: f:\spl-2\server\services\userService.js.git
+19:51:58 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:52:27 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:52:27 - Opened: f:\spl-2\server\services\userService.js.git
+19:52:28 - Closed: f:\spl-2\server\services\userService.js.git
+19:52:29 - Opened: f:\spl-2\server\controllers\userController.js.git
+19:52:36 - Modified: Workspace event
+19:52:36 - Modified: Workspace event
+19:52:37 - Modified: Workspace event
+19:52:37 - Modified: Workspace event
+19:52:37 - Saved: f:\spl-2\server\controllers\userController.js
+19:52:46 - Modified: Workspace event
+19:52:46 - Modified: Workspace event
+19:52:46 - Modified: Workspace event
+19:52:46 - Modified: Workspace event
+19:52:46 - Modified: Workspace event
+19:52:47 - Modified: Workspace event
+19:52:48 - Modified: Workspace event
+19:52:48 - Modified: Workspace event
+19:52:48 - Saved: f:\spl-2\server\controllers\userController.js
+19:52:51 - Closed: f:\spl-2\server\controllers\userController.js.git
+19:53:39 - Closed: f:\spl-2\server\services\userService.js
+19:53:39 - Closed: f:\spl-2\server\server.js
+19:53:41 - Closed: f:\spl-2\server\controllers\userController.js
+19:53:43 - Closed: f:\spl-2\.env
+19:53:44 - Closed: f:\spl-2\server\routes\userRoutes.js
+19:54:17 - Opened: f:\spl-2\.env
+19:54:17 - Opened: f:\spl-2\.env.git
+19:54:19 - Modified: Workspace event
+19:54:19 - Modified: Workspace event
+19:54:21 - Modified: Workspace event
+19:54:21 - Modified: Workspace event
+19:54:21 - Saved: f:\spl-2\.env
+19:54:22 - Closed: f:\spl-2\.env.git
